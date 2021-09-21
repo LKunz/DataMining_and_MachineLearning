@@ -1,6 +1,6 @@
 # Data Mining and Machine Learning - University of Lausanne
 
-### This repository is a copy of the official course repository available here : https://github.com/michalis0/DataMining_and_MachineLearning
+#### This repository is a copy of the official course repository available here : https://github.com/michalis0/DataMining_and_MachineLearning
 
 This repository includes content for the "Data Mining and Machine Learning" class by Prof. Vlachos
 
